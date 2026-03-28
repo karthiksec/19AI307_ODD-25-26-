@@ -46,8 +46,8 @@ To write a Java program that reads two integer numbers from the user and perform
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: ILAIYADEEPAN K
-RegisterNumber:  212223230080
+Developed by: KARTHIK G
+RegisterNumber:  212223220043
 */
 ```
 
